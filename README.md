@@ -1,16 +1,36 @@
-### Hi there 👋
+# Nayara Arruda de Carvalho (NiiHaL)
 
-<!--
-**Nihal182/Nihal182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :handshake: Hello all, welcome to my GitHub profile!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- :beginner: Begginer Developer;
+
+- :moneybag: Saleswoman at a Geek Store;
+
+-  :desktop_computer: Currently studying Systems Analysis and Development;
+
+- :video_game: Also studying Game Designer;
+
+- :call_me_hand: I'm curious, empathetic and proactive;
+
+- I like music :metal: , animes&movies :clapper: , books :books: and technologies :woman_technologist:;
+
+- :art: Going deeper into Front End (CSS, Javascript) and Vector art;
+
+- :trophy: I'm avaliable for internships or any project;
+
+  
+
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/niihal182)
+
+  
+
+<h1 align="right"><img src="C:\Users\Nayara\AppData\Roaming\Typora\typora-user-images\image-20220511135842890.png" alt="image-20220511135842890" style="zoom: 50%;"  /></h1>
+
+
+
+
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Nihal182)
+
