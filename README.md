@@ -26,11 +26,6 @@
 
   
 
-<h1 align="right"><img src="C:\Users\Nayara\AppData\Roaming\Typora\typora-user-images\image-20220511135842890.png" alt="image-20220511135842890" style="zoom: 50%;"  /></h1>
-
-
-
-
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Nihal182)
 
