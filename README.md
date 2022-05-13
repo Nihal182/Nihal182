@@ -2,7 +2,6 @@
 
 ### :handshake: Hello all, welcome to my GitHub profile!
 
-![Bani](https://raw.githubusercontent.com/Nihal182/Bani-Game/main/Bani%20Animation/bani.png)
 
 - :beginner: Begginer Developer;
 
