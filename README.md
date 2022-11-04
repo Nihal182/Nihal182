@@ -15,7 +15,7 @@
 
 - I like music :metal: , animes&movies :clapper: , books :books: and technologies :woman_technologist:;
 
-- :art: Going deeper into Front End (CSS, Javascript) and Vector art;
+- :art: Going deeper into C# , .NET and Vector art;
 
 - :trophy: I'm avaliable for internships or any project;
 
