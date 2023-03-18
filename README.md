@@ -5,9 +5,9 @@
 
 - :beginner: Begginer Developer;
 
-- :moneybag: Saleswoman at a Geek Store;
+- :moneybag: Intern at SingleTech;
 
--  :desktop_computer: Currently studying Systems Analysis and Development;
+-  :desktop_computer: Currently studying Systems Analysis and Development || Security System ;
 
 - :video_game: Also studying Game Designer;
 
