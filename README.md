@@ -17,7 +17,7 @@
 
 - :art: Going deeper into C# , .NET and Vector art;
 
-- :trophy: I'm avaliable for internships or any project;
+- :trophy: I'm avaliable for any project;
 
   
 
