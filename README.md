@@ -15,8 +15,6 @@
 
 - I like music :metal: , animes&movies :clapper: , books :books: and technologies :woman_technologist:;
 
-- :art: Going deeper into C# , .NET and Vector art;
-
 - :trophy: I'm avaliable for any project;
 
   
