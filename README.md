@@ -16,11 +16,11 @@
 - I like music :metal: , animes&movies :clapper: , books :books: and technologies :woman_technologist:;
 
 - :trophy: I'm avaliable for any project;
-
   
 
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nihal182/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/nihal182/)  
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/niihal/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/notexist4u/)
   
 
 
