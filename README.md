@@ -3,9 +3,9 @@
 ### :handshake: Hello all, welcome to my GitHub profile!
 
 
-- :beginner: Begginer Developer;
+- :beginner: Begginer Developer and Security Analyst;
 
-- :moneybag: Intern at SingleTech;
+- :moneybag: Working at SingleTech;
 
 -  :desktop_computer: Currently studying Systems Analysis and Development || Security System ;
 
@@ -21,7 +21,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/nihal182/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/notexist4u/)
   
-
+<script src="https://tryhackme.com/badge/3122026"></script>
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Nihal182)
 
