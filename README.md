@@ -28,13 +28,8 @@
 
 <b>I like:<b/>
 
-- <img src="https://media.tenor.com/aOz-HUocH6IAAAAj/one-piece-pixel.gif" width ="200"> Rock n' Roll
-
-- <img src="https://media.tenor.com/4jusVtAt-hAAAAAi/buggy-buggytheclown.gif" width ="200"> Animes & Movies
-  
-- <img src="https://media.tenor.com/dWAyzSg88MAAAAAj/one-piece-pixel.gif" width ="200"> Books
-  
-- <img src="https://media.tenor.com/bwZru0-WXCQAAAAi/one-piece-z-studios.gif" width ="200"> Technologies
+<img src="https://media.tenor.com/aOz-HUocH6IAAAAj/one-piece-pixel.gif" width ="200">  <img src="https://media.tenor.com/4jusVtAt-hAAAAAi/buggy-buggytheclown.gif" width ="200"> <img src="https://media.tenor.com/dWAyzSg88MAAAAAj/one-piece-pixel.gif" width ="200"> <img src="https://media.tenor.com/bwZru0-WXCQAAAAi/one-piece-z-studios.gif" width ="200">
+Rock n' Roll | Animes & Movies | Books | Technologies
   
   
 
