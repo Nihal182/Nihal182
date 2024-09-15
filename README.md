@@ -10,31 +10,34 @@
 <img src="https://i.pinimg.com/originals/6b/5d/32/6b5d32a496de73e0dc68036ca066857e.gif" width="40%" align="right" />
 
 <b>About Me:<b/>
-- :beginner: Begginer Developer and Security Analyst;
 
-- :moneybag: Working at SingleTech;
+- Begginer Developer and Security Analyst;
 
--  :desktop_computer: Currently studying Systems Analysis and Development || Security System ;
+- Working at SingleTech;
 
-- :video_game: Also studying Game Designer;
+- Currently studying Systems Analysis and Development || Security System ;
 
-- :call_me_hand: I'm curious, empathetic and proactive;
-- 
-- :trophy: I'm avaliable for any project;
--  :trophy: I'm avaliable for any project;
-- :trophy: I'm avaliable for any project;
+- Also studying Game Designer;
+  
+- Trying Hard at CTFs on TryHackMe;
 
-- :trophy: I'm avaliable for any project;
+- I want to become a Project Manager;
+
+- I really like Web Development Stuffs;
+
+- I'm curious, empathetic and proactive;
+  
+- I'm avaliable for any project;
 
 <br>
 <br>
 <br>
 
 
-<img src="https://media.tenor.com/aOz-HUocH6IAAAAj/one-piece-pixel.gif" width ="210">
+<img src="https://media.tenor.com/aOz-HUocH6IAAAAj/one-piece-pixel.gif" width ="230">
 <img src="https://media.tenor.com/dWAyzSg88MAAAAAj/one-piece-pixel.gif" width ="190">
 <img src="https://media.tenor.com/RcfwvyomzVIAAAAj/one-piece-z-studios.gif" width ="150">
-<img src="https://media.tenor.com/bwZru0-WXCQAAAAi/one-piece-z-studios.gif" width ="180">
+<img src="https://media.tenor.com/bwZru0-WXCQAAAAi/one-piece-z-studios.gif" width ="190">
 <img src="https://media.tenor.com/Ji96cpd-9CgAAAAM/one-piece-pixel.gif" width ="240">
 <br>
 <br>
