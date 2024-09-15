@@ -25,7 +25,8 @@
 <img src="https://media.tenor.com/aOz-HUocH6IAAAAj/one-piece-pixel.gif" width ="140"> <b>- Rock n' Roll</b>
 
 - , animes&movies :clapper: ,
-<img src="https://w7.pngwing.com/pngs/864/555/png-transparent-nico-robin-monkey-d-luffy-roronoa-zoro-vinsmoke-sanji-nefertari-vivi-one-piece-purple-violet-fictional-character-thumbnail.pngwidth ="60"> <b>- books</b>
+  
+<img src="https://w7.pngwing.com/pngs/864/555/png-transparent-nico-robin-monkey-d-luffy-roronoa-zoro-vinsmoke-sanji-nefertari-vivi-one-piece-purple-violet-fictional-character-thumbnail.png"width ="60"> <b>- books</b>
 technologies :woman_technologist:;
 
 - :trophy: I'm avaliable for any project;
