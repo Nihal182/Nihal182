@@ -21,6 +21,10 @@
 - :call_me_hand: I'm curious, empathetic and proactive;
 - 
 - :trophy: I'm avaliable for any project;
+-  :trophy: I'm avaliable for any project;
+- :trophy: I'm avaliable for any project;
+
+- :trophy: I'm avaliable for any project;
 
 <br>
 <br>
