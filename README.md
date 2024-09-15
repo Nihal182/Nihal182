@@ -35,7 +35,7 @@
 
 
 <img src="https://media.tenor.com/aOz-HUocH6IAAAAj/one-piece-pixel.gif" width ="210">
-<img src="https://media.tenor.com/dWAyzSg88MAAAAAj/one-piece-pixel.gif" width ="10">
+<img src="https://media.tenor.com/dWAyzSg88MAAAAAj/one-piece-pixel.gif" width ="180">
 <img src="https://media.tenor.com/RcfwvyomzVIAAAAj/one-piece-z-studios.gif" width ="150">
 <img src="https://media.tenor.com/bwZru0-WXCQAAAAi/one-piece-z-studios.gif" width ="180">
 <img src="https://media.tenor.com/Ji96cpd-9CgAAAAM/one-piece-pixel.gif" width ="240">
