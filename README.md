@@ -32,9 +32,9 @@
 
 
 <img src="https://media.tenor.com/aOz-HUocH6IAAAAj/one-piece-pixel.gif" width ="190">
-<img src="https://media.tenor.com/n8i44Ahsl7EAAAAj/one-piece-pixel.gif" width ="190">
+<img src="https://media.tenor.com/n8i44Ahsl7EAAAAj/one-piece-pixel.gif" width ="220">
 <img src="https://media.tenor.com/dWAyzSg88MAAAAAj/one-piece-pixel.gif" width ="130">
-<img src="https://media.tenor.com/RcfwvyomzVIAAAAj/one-piece-z-studios.gif" width ="180">
+<img src="https://media.tenor.com/RcfwvyomzVIAAAAj/one-piece-z-studios.gif" width ="130">
 <img src="https://media.tenor.com/bwZru0-WXCQAAAAi/one-piece-z-studios.gif" width ="180">
 <img src="https://media.tenor.com/lcs3LAD4V58AAAAj/one-piece-pixel.gif" width="190">
 <br>
