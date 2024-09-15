@@ -9,7 +9,7 @@
 
 <img src="https://i.pinimg.com/originals/6b/5d/32/6b5d32a496de73e0dc68036ca066857e.gif" width="50%" align="right" />
 
-<b>About Me:</>
+<b>About Me:<b/>
 - :beginner: Begginer Developer and Security Analyst;
 
 - :moneybag: Working at SingleTech;
@@ -20,13 +20,15 @@
 
 - :call_me_hand: I'm curious, empathetic and proactive;
 
-<b>I like:</>
+<br>
+
+<b>I like:<b/>
 
 - <img src="https://media.tenor.com/aOz-HUocH6IAAAAj/one-piece-pixel.gif" width ="140"> Rock n' Roll
 
 - , animes&movies :clapper: ,
   
-- <img src="https://64.media.tumblr.com/6defb4b5e1758567aaee49c241ed15d1/bdcd1a2a1a7cfd2d-77/s400x600/6845a9b01434c981a76f0eb5ec8704754adb71d3.gif" width ="60"> Books
+- <img src="https://media.tenor.com/-L2F_aJcOHsAAAAj/tony-chopper-one-piece.gif" width ="140"> Books
 technologies :woman_technologist:;
 
 - :trophy: I'm avaliable for any project;
