@@ -11,9 +11,11 @@
 
 - Working at SingleTech;
 
-- Currently studying Systems Analysis and Development || Security System ;
+- Currently studying Systems Analysis and Development;
 
-- Also studying Game Designer;
+- Studying Security Systems too;
+
+- Playing as Game Designer sometimes;
   
 - Trying Hard at CTFs on TryHackMe;
 
@@ -30,10 +32,10 @@
 <br>
 
 
-<img src="https://media.tenor.com/aOz-HUocH6IAAAAj/one-piece-pixel.gif" width ="170">
+<img src="https://media.tenor.com/aOz-HUocH6IAAAAj/one-piece-pixel.gif" width ="180">
 <img src="https://media.tenor.com/dWAyzSg88MAAAAAj/one-piece-pixel.gif" width ="150">
 <img src="https://media.tenor.com/RcfwvyomzVIAAAAj/one-piece-z-studios.gif" width ="130">
-<img src="https://media.tenor.com/bwZru0-WXCQAAAAi/one-piece-z-studios.gif" width ="150">
+<img src="https://media.tenor.com/bwZru0-WXCQAAAAi/one-piece-z-studios.gif" width ="160">
 <img src="https://media.tenor.com/Ji96cpd-9CgAAAAM/one-piece-pixel.gif" width ="200">
 <br>
 <br>
