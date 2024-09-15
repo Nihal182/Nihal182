@@ -2,25 +2,10 @@
 
 ### :handshake: Hello all, welcome to my GitHub profile!
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
+ 
+ <p>- <i>A comp-sci undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
 
-- :beginner: Begginer Developer and Security Analyst;
 
-- :moneybag: Working at SingleTech;
-
--  :desktop_computer: Currently studying Systems Analysis and Development || Security System ;
-
-- :video_game: Also studying Game Designer;
-
-- :call_me_hand: I'm curious, empathetic and proactive;
-
-- I like music :metal: , animes&movies :clapper: , books :books: and technologies :woman_technologist:;
-
-- :trophy: I'm avaliable for any project;
-  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/nihal182/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/notexist4u/)
-  
-
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Nihal182)
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
