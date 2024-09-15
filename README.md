@@ -4,7 +4,7 @@
 
 
 
-# <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> <b>About Me:<b/>
+# <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> <b>About Me<b/>
 <br>
 <img src="https://i.pinimg.com/originals/6b/5d/32/6b5d32a496de73e0dc68036ca066857e.gif" width="40%" align="right" />
 
@@ -33,7 +33,7 @@
 
 <img src="https://media.tenor.com/aOz-HUocH6IAAAAj/one-piece-pixel.gif" width ="210">
 <img src="https://media.tenor.com/dWAyzSg88MAAAAAj/one-piece-pixel.gif" width ="180">
-<img src="https://media.tenor.com/RcfwvyomzVIAAAAj/one-piece-z-studios.gif" width ="150">
+<img src="https://media.tenor.com/RcfwvyomzVIAAAAj/one-piece-z-studios.gif" width ="160">
 <img src="https://media.tenor.com/bwZru0-WXCQAAAAi/one-piece-z-studios.gif" width ="180">
 <img src="https://media.tenor.com/Ji96cpd-9CgAAAAM/one-piece-pixel.gif" width ="240">
 <br>
@@ -41,6 +41,16 @@
 <div align="center">
 <b>Rock n' Roll | Animes & Movies | Games | Books | Technologies</b>
 </div>
+<br>
+# <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> <b> My Skills<b/>
+
+
+<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/nihal182/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/notexist4u/)
+  
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Nihal182)
   
   
 
