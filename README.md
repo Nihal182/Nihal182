@@ -39,14 +39,11 @@
 <br>
 <br>
 <div align="center">
+ <br>
 <b>Rock n' Roll | Animes & Movies | Games | Books | Technologies</b>
-</div>
-<br>
-
-# <picture><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></picture> <b> My Skills<b/>
-
-<br>
-<a href="https://www.linkedin.com/in/nihal182/" target="_blank">
+ <br>
+ <br>
+ <a href="https://www.linkedin.com/in/nihal182/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:nayeeteen182@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
@@ -55,8 +52,14 @@
 <a  href="https://tryhackme.com/p/NiihaL" target="_blank">
     <img src="https://img.shields.io/badge/Try_HackMe-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
 </a>
+</div>
+<br>
 
-  
+# <picture><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></picture> <b> My Skills<b/>
+<br>
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<br>
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Nihal182)
   
