@@ -19,18 +19,24 @@
 - :video_game: Also studying Game Designer;
 
 - :call_me_hand: I'm curious, empathetic and proactive;
+- 
+- - :trophy: I'm avaliable for any project;
 
+<br>
+<br>
 <br>
 
 <b>I like:<b/>
 
-- <img src="https://media.tenor.com/aOz-HUocH6IAAAAj/one-piece-pixel.gif" width ="140"> Rock n' Roll
+- <img src="https://media.tenor.com/aOz-HUocH6IAAAAj/one-piece-pixel.gif" width ="200"> Rock n' Roll
 
-- , animes&movies :clapper: ,
+- <img src="https://media.tenor.com/CHKoOOKvzx4AAAAj/one-piece-franky.gif" width ="150"> Animes & Movies
   
 - <img src="https://media.tenor.com/-L2F_aJcOHsAAAAj/tony-chopper-one-piece.gif" width ="140"> Books
-technologies :woman_technologist:;
+  
+- <img src="https://media.tenor.com/-L2F_aJcOHsAAAAj/tony-chopper-one-piece.gif" width ="140"> Technologies
+  
+  
 
-- :trophy: I'm avaliable for any project;
   
 
