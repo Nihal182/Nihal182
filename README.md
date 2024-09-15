@@ -4,7 +4,7 @@
 
 
 
-# <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> <b><color=#FF3670>About Me:</color><b/>
+# <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> <b><color=FF3670>About Me:</color><b/>
 <br>
 <img src="https://i.pinimg.com/originals/6b/5d/32/6b5d32a496de73e0dc68036ca066857e.gif" width="40%" align="right" />
 
