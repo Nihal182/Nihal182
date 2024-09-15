@@ -9,3 +9,19 @@
 
 <img src="https://i.pinimg.com/originals/6b/5d/32/6b5d32a496de73e0dc68036ca066857e.gif" width="50%" align="right" />
 
+- :beginner: Begginer Developer and Security Analyst;
+
+- :moneybag: Working at SingleTech;
+
+-  :desktop_computer: Currently studying Systems Analysis and Development || Security System ;
+
+- :video_game: Also studying Game Designer;
+
+- :call_me_hand: I'm curious, empathetic and proactive;
+
+<img src="https://media.tenor.com/aOz-HUocH6IAAAAj/one-piece-pixel.gif" width ="25"> - I like <b>music</b>
+- , animes&movies :clapper: , books :books: and technologies :woman_technologist:;
+
+- :trophy: I'm avaliable for any project;
+  
+
