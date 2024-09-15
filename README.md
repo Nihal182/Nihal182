@@ -42,12 +42,20 @@
 <b>Rock n' Roll | Animes & Movies | Games | Books | Technologies</b>
 </div>
 <br>
-# <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> <b> My Skills<b/>
 
+# <picture><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></picture> <b> My Skills<b/>
 
 <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/nihal182/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/notexist4u/)
+<a href="https://www.linkedin.com/in/nihal182/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:nayeeteen182@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
+</a>
+<a  href="https://tryhackme.com/p/NiihaL" target="_blank">
+    <img src="https://img.shields.io/badge/Try_HackMe-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
+</a>
+
   
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Nihal182)
