@@ -19,7 +19,7 @@
 
 - :call_me_hand: I'm curious, empathetic and proactive;
 
-<img src="https://media.tenor.com/aOz-HUocH6IAAAAj/one-piece-pixel.gif" width ="25"> - I like <b>music</b>
+<img src="https://media.tenor.com/aOz-HUocH6IAAAAj/one-piece-pixel.gif" width ="50"> - I like <b>music</b>
 - , animes&movies :clapper: , books :books: and technologies :woman_technologist:;
 
 - :trophy: I'm avaliable for any project;
