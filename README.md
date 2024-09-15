@@ -31,12 +31,11 @@
 <br>
 
 
-<img src="https://media.tenor.com/aOz-HUocH6IAAAAj/one-piece-pixel.gif" width ="170">
-<img src="https://media.tenor.com/dWAyzSg88MAAAAAj/one-piece-pixel.gif" width ="130">
-<img src="https://media.tenor.com/RcfwvyomzVIAAAAj/one-piece-z-studios.gif" width ="110">
-<img src="https://media.tenor.com/bwZru0-WXCQAAAAi/one-piece-z-studios.gif" width ="150">
-<img src="https://media.tenor.com/PkbmNeVDMisAAAAM/zoro-sanji.gif" width="180">
-<img src="https://media.tenor.com/Ji96cpd-9CgAAAAM/one-piece-pixel.gif" width ="220">
+<img src="https://media.tenor.com/aOz-HUocH6IAAAAj/one-piece-pixel.gif" width ="190">
+<img src="https://media.tenor.com/dWAyzSg88MAAAAAj/one-piece-pixel.gif" width ="160">
+<img src="https://media.tenor.com/RcfwvyomzVIAAAAj/one-piece-z-studios.gif" width ="150">
+<img src="https://media.tenor.com/bwZru0-WXCQAAAAi/one-piece-z-studios.gif" width ="180">
+<img src="https://media.tenor.com/Ji96cpd-9CgAAAAM/one-piece-pixel.gif" width ="230">
 <br>
 <br>
 <div align="center">
