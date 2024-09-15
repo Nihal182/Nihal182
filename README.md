@@ -2,10 +2,10 @@
 
 ### :handshake: Hello all, welcome to my GitHub profile!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=CF0E0E&size=25&center=false&lines=Hey!+its+Nayara +here;Security+Systems+Student...;Web+Designer+Enthusiast...;P.O+Skills"/>
  
- <p>- <i>A comp-sci undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
+ <p>- <i>I am a super affectionate and communicative person and always want to give my best in everything I do, both for myself and for those around me. I've always worked in sales and there isn't a job I've gone through without getting good feedbacks from clients. Even with all the journey, I felt that sales was not my dream career and it took me a while to discover my passion. Since i always liked to study and read about everything it was hard to know what I liked most exactly... until I understood that if I am a person in constant evolution my area would be for sure Technology and that's where I'm trying to go now. I'm studying Systems Analysis and Development and Information Security in two different Universities, improving specific knowledge in courses and bootcamps to leverage my career ando also having fun as a game designer in my free time.</i></p>
 
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
+<img src="https://i.pinimg.com/originals/6b/5d/32/6b5d32a496de73e0dc68036ca066857e.gif" width="50%" align="right" />
 
