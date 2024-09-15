@@ -30,8 +30,8 @@
 <img src="https://media.tenor.com/aOz-HUocH6IAAAAj/one-piece-pixel.gif" width ="190">
 <img src="https://media.tenor.com/4jusVtAt-hAAAAAi/buggy-buggytheclown.gif" width ="150">
 <img src="https://media.tenor.com/dWAyzSg88MAAAAAj/one-piece-pixel.gif" width ="150">
-<img src="https://media.tenor.com/bwZru0-WXCQAAAAi/one-piece-z-studios.gif" width ="150">
-<img src="https://media.tenor.com/CHKoOOKvzx4AAAAj/one-piece-franky.gif" width="140">
+<img src="https://media.tenor.com/bwZru0-WXCQAAAAi/one-piece-z-studios.gif" width ="50">
+<img src="https://media.tenor.com/CHKoOOKvzx4AAAAj/one-piece-franky.gif" width="40">
 <br>
 <div align="center">
 <b>Rock n' Roll | Animes & Movies | Books | Technologies</b>
